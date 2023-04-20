@@ -2,8 +2,6 @@
 ![image](https://user-images.githubusercontent.com/76943884/232239365-89d50e0a-18c3-404d-ad39-f3bb452cb135.png)
 # Demo Video:
       https://drive.google.com/file/d/1ZqLJj3kVMDukseNMNKUV2_S62xMCT9_3/view?usp=share_link
-# Website Files:
-      https://drive.google.com/drive/folders/11YgFSC49uPLFtwRIit03gtifLprF-AEj?usp=share_link
 # Objective:
 Certainly! The fitness and sports website aims to be a comprehensive resource for individuals seeking to improve their physical health and well-being. Its objectives include educating individuals about various sports and muscle exercises, offering tailored training programs, providing access to high-quality fitness equipment and nutritional supplements, and motivating individuals to stick to their fitness routines and achieve their goals. Ultimately, the website aims to empower individuals to lead healthier and more active lifestyles by offering the resources, guidance, and support needed to achieve their fitness objectives.
 
@@ -22,25 +20,26 @@ All in all, a sports and fitness website can provide a comprehensive and cost-ef
 
 # Methodology:
 ## 1. Planning
-  For this we identified all the fields of this contest's project and as we had our exams the whole of march. We had less time to prepare the project. That's why we chose this as our main project. Then we thought of the goal and objectives of the website, and target audience and created a planned structure and content with the team for the website.
+  For this we identified all the fields of this contest's project and as we had our exams the whole of march. We had less time to prepare the project. That's why we chose Fitness and Sports as our main project. Then we thought of the goal and objectives of the website, and target audience and created a planned structure and content with the team for the website.
 
 ## 2. Design
-  For designing our site we first thought of using react.js for a good responsive website as it would be fast and good. But as we had less time we changed our task from react.js to WordPress. There we selected a theme and started the website's layout, design elements, and user interface. This step involves choosing a suitable theme and customizing it to meet the website's design.
+  For designing our site we first thought of using react.js for a good responsive website as it would be fast and good. But as we had less time we changed our task from react.js to HTML, CSS and Javascript. This step involves choosing a suitable structure and customizing it to meet the website's design.
+
 
 ## 3. Development
-  We build the website on the WordPress platform, including adding required functionality, installing plugins, and integrating third-party tools.
+  We build the website using vscode software, including adding required functionality, and integrating third-party extensions.
 
 ## 4. Content Creation
   For content, we thought of different sports and gym exercise information on our website. To get the information for specific sports or fitness we used chatbot as it provides the specific information to what we need. It is easier and more precise information. We used images also. We looked into different blogs/posts to check the quality of content.
   
 ## 5. Testing
-  After implementing the design and content, there could be some image, text, or CSS issues. We performed testing on the website, including functionality, user experience, and responsiveness, across various devices and browsers.
+  After implementing the CSS and content, there could be some image, HTML, or CSS issues. We performed testing on the website, including functionality, user experience, and responsiveness, across various devices and browsers.
 
 ## 6. Deployment
-  After testing we deployed/launched the site using google cloud services with amd instance and ensure that all necessary settings, plugins, and tools are in place.
+  After testing we deployed/launched the site using google cloud services with amd instance and ensure that all necessary settings, and tools are in place.
 
 ## 7. Maintenance and Support
-  We try to regularly update the website's content, themes, and plugins, perform backups and security checks, and provide support to users as soon as possible. We provided our contact information for the site. So that users can inform us of any bugs or suggest us to add new content, theme, or plugin.
+  We try to regularly update the website's content, perform backups and security checks, and provide support to users as soon as possible. We provided our contact information for the site. So that users can inform us of any bugs or suggest us to add new content.
 
 
 # Result:
