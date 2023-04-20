@@ -13,10 +13,13 @@ Certainly! The fitness and sports website aims to be a comprehensive resource fo
 All in all, a sports and fitness website can provide a comprehensive and cost-effective solution to the issues of declining lifestyle and insufficient physical activity, unreliable information, and the expenses associated with personal trainers and gym memberships. By providing accessible and reliable resources, creating a supportive community, and offering personalized recommendations and tracking tools, such a website can aid people in achieving their health and fitness objectives and leading a healthier life.
 
 # Technology Used
-- WordPress Version 6.2
-- Theme Used: Astra
-- Plugins Used: Elementor
+- HTML
+- CSS
+- JavaScript
 - Hosting: Google Cloud with AMD Instance
+- Visual Studio Code
+- Web browsers
+- 
 
 # Methodology:
 ## 1. Planning
