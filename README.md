@@ -19,7 +19,6 @@ All in all, a sports and fitness website can provide a comprehensive and cost-ef
 - Hosting: Google Cloud with AMD Instance
 - Visual Studio Code
 - Web browsers
-- 
 
 # Methodology:
 ## 1. Planning
